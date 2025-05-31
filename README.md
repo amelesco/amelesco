@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Career changer with a strong background in customer service  
-- 💻 Currently mastering **HTML, CSS, JavaScript, and React** via freeCodeCamp  
+- 💻 Currently building expertise in **HTML, CSS,and JavaScript** via freeCodeCamp  
 - 🧠 Learning DOM manipulation, API integration, local storage, OOP, and functional programming   
 - 🤝 Open to junior front-end roles, collaborations, and learning opportunities
 
